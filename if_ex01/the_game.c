@@ -1,3 +1,5 @@
+#include "brightcode.h"
+
 void	age_if(int a)
 {
   if (a == 0)

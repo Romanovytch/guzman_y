@@ -1,3 +1,5 @@
+#include "brightcode.h"
+
 void	ave_cesar(unsigned int lol)
 {
   int	p;

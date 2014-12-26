@@ -1,3 +1,5 @@
+#include "brightcode.h"
+
 void	bank (int age, int argent)
 {
   if (age < 18 || argent < 1000)
